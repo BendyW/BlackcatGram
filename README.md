@@ -7,7 +7,7 @@ application up and running.
 To get app up and running:
 * Bundle
 * bin/rails s 
-    Will default to port 3000
+    * Will default to port 3000
   
 
 
