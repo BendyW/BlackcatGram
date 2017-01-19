@@ -3,6 +3,15 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+
+To get app up and running:
+* Bundle
+* bin/rails s 
+    Will default to port 3000
+  
+
+
+
 Things you may want to cover:
 
 * Ruby version
